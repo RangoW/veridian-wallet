@@ -120,6 +120,8 @@ You can gain additional insights into end-to-end testing by visiting the provide
 
 ## Additional Tutorials
 - [Customizing Splash Screens and Icons](docs/Customizing-Splash-and-Icons.md)
+- [QVI Technical Review Documentation](docs/QVI-Technical-Review.md)
+- [QVI Compliance Checklist](docs/QVI-Compliance-Checklist.md)
 
 # Contributing
 
